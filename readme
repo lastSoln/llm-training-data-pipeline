@@ -1,0 +1,29 @@
+# LLM Training Data Pipeline
+
+## Overview
+
+This project collects, cleans, standardizes, and categorizes training datasets for a general-purpose AI assistant.
+
+## Datasets Used
+
+- Dolly 15K
+- Alpaca
+- OpenAssistant
+- WikiText-103
+- CNN/DailyMail
+- BoolQ
+
+## Features
+
+- Dataset acquisition
+- Data cleaning
+- Schema standardization
+- Conversation reconstruction
+- Dataset categorization
+- Final corpus generation
+
+## Technologies
+
+- Python
+- Pandas
+- Hugging Face Datasets
