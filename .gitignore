@@ -6,7 +6,7 @@ raw_datasets/
 
 processed/*.csv
 categorized/*.csv
-
+categorized_semantic/*.csv
 .env
 .cache/
 .ipynb_checkpoints/
